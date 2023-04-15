@@ -1,0 +1,77 @@
+Identifier	Character	Dialogue	Filename	Line Number	Ren'Py Script
+		Merry dawg VN	game/options.rpy	15
+		Back	game/screens.rpy	252
+		History	game/screens.rpy	253
+		Skip	game/screens.rpy	254
+		Auto	game/screens.rpy	255
+		Save	game/screens.rpy	256
+		Q.Save	game/screens.rpy	257
+		Q.Load	game/screens.rpy	258
+		Settings	game/screens.rpy	259
+		Start	game/screens.rpy	300
+		Load	game/screens.rpy	308
+		End Replay	game/screens.rpy	314
+		Main Menu	game/screens.rpy	318
+		About	game/screens.rpy	320
+		Help	game/screens.rpy	325
+		Version [config.version!t]\n	game/screens.rpy	556
+		Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]	game/screens.rpy	562
+		{#file_time}%A, %B %d %Y, %H:%M	game/screens.rpy	640
+		empty slot	game/screens.rpy	640
+		<	game/screens.rpy	657
+		{#auto_page}A	game/screens.rpy	660
+		{#quick_page}Q	game/screens.rpy	663
+		>	game/screens.rpy	669
+		Display	game/screens.rpy	726
+		Window	game/screens.rpy	727
+		Unseen Text	game/screens.rpy	733
+		After Choices	game/screens.rpy	734
+		Transitions	game/screens.rpy	735
+		Text Speed	game/screens.rpy	748
+		Auto-Forward Time	game/screens.rpy	752
+		Music Volume	game/screens.rpy	759
+		Sound Volume	game/screens.rpy	766
+		Test	game/screens.rpy	772
+		Voice Volume	game/screens.rpy	776
+		Mute All	game/screens.rpy	787
+		The dialogue history is empty.	game/screens.rpy	906
+		Keyboard	game/screens.rpy	974
+		Mouse	game/screens.rpy	975
+		Enter	game/screens.rpy	991
+		Advances dialogue and activates the interface.	game/screens.rpy	992
+		Space	game/screens.rpy	995
+		Advances dialogue without selecting choices.	game/screens.rpy	996
+		Arrow Keys	game/screens.rpy	999
+		Navigate the interface.	game/screens.rpy	1000
+		Escape	game/screens.rpy	1003
+		Accesses the game menu.	game/screens.rpy	1004
+		Ctrl	game/screens.rpy	1007
+		Skips dialogue while held down.	game/screens.rpy	1008
+		Tab	game/screens.rpy	1011
+		Toggles dialogue skipping.	game/screens.rpy	1012
+		Page Up	game/screens.rpy	1015
+		Rolls back to earlier dialogue.	game/screens.rpy	1016
+		Page Down	game/screens.rpy	1019
+		Rolls forward to later dialogue.	game/screens.rpy	1020
+		Hides the user interface.	game/screens.rpy	1024
+		Takes a screenshot.	game/screens.rpy	1028
+		Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.	game/screens.rpy	1032
+		Opens the accessibility menu.	game/screens.rpy	1036
+		Left Click	game/screens.rpy	1042
+		Middle Click	game/screens.rpy	1046
+		Right Click	game/screens.rpy	1050
+		Mouse Wheel Up\nClick Rollback Side	game/screens.rpy	1054
+		Mouse Wheel Down	game/screens.rpy	1058
+		Right Trigger\nA/Bottom Button	game/screens.rpy	1065
+		Left Trigger\nLeft Shoulder	game/screens.rpy	1069
+		Right Shoulder	game/screens.rpy	1073
+		D-Pad, Sticks	game/screens.rpy	1078
+		Start, Guide	game/screens.rpy	1082
+		Y/Top Button	game/screens.rpy	1086
+		Yes	game/screens.rpy	1154
+		No	game/screens.rpy	1155
+		Skipping	game/screens.rpy	1201
+		Menu	game/screens.rpy	1424
+start_2cee00b1	dog	Woof.	game/script.rpy	27	dog "[what]"
+start_9f2daece	dog	Thank you for making my game!	game/script.rpy	29	dog "[what]"
+start_2cee00b1_1	dog	Woof.	game/script.rpy	31	dog "[what]"
